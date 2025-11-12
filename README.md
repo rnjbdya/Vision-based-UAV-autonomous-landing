@@ -1,5 +1,5 @@
 # Vision-based-UAV-autonomous-landing
-Official Implementation for [Simulation and Real-Life Implementation of UAV Autonomous Landing System Based on Object Recognition and Tracking for Safe Landing in Uncertain Environments](https://www.preprints.org/manuscript/202401.1037/v1)
+Official Implementation for [Simulation and Real-Life Implementation of UAV Autonomous Landing System Based on Object Recognition and Tracking for Safe Landing in Uncertain Environments](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1450266/full)
 
 ## Setup
 The simulation can be run on a desktop along with ardupilot SITL also 
